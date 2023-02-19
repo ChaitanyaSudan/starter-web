@@ -17,3 +17,5 @@ This is the deployement section of the starter web repository
 ## Result
 
 This is the result section of the readme file
+
+This text is added for local commit
