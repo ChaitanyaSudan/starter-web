@@ -19,3 +19,7 @@ This is the deployement section of the starter web repository
 This is the result section of the readme file
 
 This text is added for local commit
+
+This text is for staging area.
+
+This text is for working directory
